@@ -16,7 +16,6 @@ public class AvgSum {
                 avg = (int) Math.round(sum/10);
             }
             System.out.println("#" + i + " " + avg);
-
         }
 
     }
