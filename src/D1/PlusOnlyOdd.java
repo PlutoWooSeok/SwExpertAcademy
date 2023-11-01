@@ -16,6 +16,7 @@ public class PlusOnlyOdd {
                 }
             }
             System.out.println("#" + i + " " +result);
+
         }
     }
 }
